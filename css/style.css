@@ -173,7 +173,7 @@ cite{
 #distant-corner{
 	display:flex;
 	align-items: center;
-	height: 45rem;
+	height: 60rem;
 	justify-content: space-between;
 	align-content: space-around;
 	position: relative;
@@ -198,7 +198,7 @@ cite{
 #profit{
 	display:flex;
 	align-items: center;
-	height: 45rem;
+	height: 60rem;
 	justify-content: space-between;
 	align-content: space-around;
 	position: relative;
